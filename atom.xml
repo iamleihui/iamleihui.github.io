@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://iamleihui.github.io/atom.xml" rel="self"/>
+  <link href="http://iamleihui.github.io/"/>
+  <updated>2015-01-21T16:39:57+11:00</updated>
+  <id>http://iamleihui.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This Is a Test Blog]]></title>
+    <link href="http://iamleihui.github.io/blog/2015/01/21/this-is-a-test-blog/"/>
+    <updated>2015-01-21T16:34:18+11:00</updated>
+    <id>http://iamleihui.github.io/blog/2015/01/21/this-is-a-test-blog</id>
+    <content type="html"><![CDATA[<p>这是一个测试的Blog.</p>
+]]></content>
+  </entry>
+  
+</feed>
